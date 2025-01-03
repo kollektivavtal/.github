@@ -1,21 +1,31 @@
 {
   "folders": [
     {
+      "name": "2020",
       "path": "2020"
     },
     {
+      "name": "2021",
       "path": "2021"
     },
     {
+      "name": "2023",
       "path": "2023"
     },
     {
+      "name": "2024",
+      "path": "2024"
+    },
+    {
+      "name": "kollektivavtal.github.io",
       "path": "kollektivavtal.github.io"
     },
     {
+      "name": "year",
       "path": "year"
     },
     {
+      "name": "autoindex",
       "path": "autoindex"
     }
   ],

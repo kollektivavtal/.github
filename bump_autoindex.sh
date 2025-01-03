@@ -5,6 +5,18 @@ cd autoindex
 highest_tag=$(git tag -l | grep -E 'v[0-9]+' | sort -V | tail -n 1)
 echo "Highest tag: ${highest_tag}"
 
+# if [[ $highest_tag =~ v([0-9]+) ]]; then
+  # current_version=${match[1]}
+  # new_version=$((current_version + 1))
+  # new_tag="v${new_version}"
+# else
+  # echo "Error: No valid tag found. Exiting."
+  # exit 1
+# fi
+# echo "New tag: ${new_tag}"
+# git tag "$new_tag"
+# git push origin "$new_tag"
+
 cd ..
 
 

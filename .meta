@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "2017": "git@github.com:kollektivavtal/2017.git",
+    "2020": "git@github.com:kollektivavtal/2020.git",
+    "2021": "git@github.com:kollektivavtal/2021.git",
+    "2023": "git@github.com:henrycatalinismith/2023.git",
+    "2024": "git@github.com:kollektivavtal/2024.git",
+    "autoindex": "git@github.com:kollektivavtal/autoindex.git",
+    "kollektivavtal.github.io": "git@github.com:kollektivavtal/kollektivavtal.github.io.git",
+    "year": "git@github.com:kollektivavtal/year.git"
+  }
+}

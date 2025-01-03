@@ -21,16 +21,16 @@
       "path": "2024"
     },
     {
+      "name": "autoindex",
+      "path": "autoindex"
+    },
+    {
       "name": "kollektivavtal.github.io",
       "path": "kollektivavtal.github.io"
     },
     {
       "name": "year",
       "path": "year"
-    },
-    {
-      "name": "autoindex",
-      "path": "autoindex"
     }
   ],
   "settings": {}

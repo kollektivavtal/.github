@@ -1,22 +1,11 @@
 {
-  "packageManager": "yarn@1.22.21+sha1.1959a18351b811cdeedbd484a8f86c3cc3bbaf72",
-  "dependencies": {
+  "author": "Henry Catalini Smith <henry@catalinismith.com>",
+  "description": "Kollektivavtal workspace repository",
+  "devDependencies": {
     "meta": "^2.2.25"
   },
-  "prettier": {
-    "overrides": [
-      {
-        "files": [
-          "*.njk"
-        ],
-        "options": {
-          "parser": "jinja-template"
-        }
-      }
-    ],
-    "plugins": [
-      "prettier-plugin-jinja-template",
-      "prettier-plugin-tailwindcss"
-    ]
-  }
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@kollektivavtal/.github",
+  "version": "1.0.0"
 }

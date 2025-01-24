@@ -11,6 +11,7 @@
     "2023": "git@github.com:henrycatalinismith/2023.git",
     "2024": "git@github.com:kollektivavtal/2024.git",
     "autoindex": "git@github.com:kollektivavtal/autoindex.git",
+    "dotgithub": "git@github.com:kollektivavtal/.github.git",
     "kollektivavtal.github.io": "git@github.com:kollektivavtal/kollektivavtal.github.io.git",
     "year": "git@github.com:kollektivavtal/year.git"
   }

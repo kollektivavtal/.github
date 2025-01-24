@@ -41,6 +41,10 @@
       "path": "autoindex"
     },
     {
+      "name": "dotgithub",
+      "path": "dotgithub"
+    },
+    {
       "name": "kollektivavtal.github.io",
       "path": "kollektivavtal.github.io"
     },

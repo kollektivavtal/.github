@@ -2,6 +2,7 @@
   "projects": {
     "2013": "git@github.com:kollektivavtal/2013.git",
     "2014": "git@github.com:kollektivavtal/2014.git",
+    "2015": "git@github.com:kollektivavtal/2015.git",
     "2016": "git@github.com:kollektivavtal/2016.git",
     "2017": "git@github.com:kollektivavtal/2017.git",
     "2018": "git@github.com:kollektivavtal/2018.git",
